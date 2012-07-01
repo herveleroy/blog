@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://spotapartnergithub.github.com/blog/atom.xml" rel="self"/>
   <link href="http://spotapartnergithub.github.com/blog/"/>
-  <updated>2012-07-01T18:07:55+02:00</updated>
+  <updated>2012-07-01T18:21:46+02:00</updated>
   <id>http://spotapartnergithub.github.com/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,12 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Lancement imminent en bata private]]></title>
+    <title type="html"><![CDATA[Lancement imminent en beta private]]></title>
     <link href="http://spotapartnergithub.github.com/blog/blog/2012/07/01/lancement-imminent-en-bata-private/"/>
     <updated>2012-07-01T18:01:00+02:00</updated>
     <id>http://spotapartnergithub.github.com/blog/blog/2012/07/01/lancement-imminent-en-bata-private</id>
-    <content type="html"><![CDATA[<p>Bootstrapped companies can&#8217;t afford to wait around to reach a network effect. You need to start generating dollars as early as possible so that you can quit your day job or put a stop to the draining of your bank account as soon as possible. Bootstrapping startups don&#8217;t have the luxury to wait around. So when generating an idea for your startup, toss out everything that doesn&#8217;t involve charging a fee for at least some of your clients. Leave the ad revenue and crazy business model revenue streams to the startups with venture funding. That&#8217;s just not your game to play.</p>
+    <content type="html"><![CDATA[<p><img class="left" src="http://spotapartnergithub.github.com/blog/images/upload/herve_1.png/320/250" title="Place Hervé #1" >
+Bootstrapped companies can&#8217;t afford to wait around to reach a network effect. You need to start generating dollars as early as possible so that you can quit your day job or put a stop to the draining of your bank account as soon as possible. Bootstrapping startups don&#8217;t have the luxury to wait around. So when generating an idea for your startup, toss out everything that doesn&#8217;t involve charging a fee for at least some of your clients. Leave the ad revenue and crazy business model revenue streams to the startups with venture funding. That&#8217;s just not your game to play.</p>
 ]]></content>
   </entry>
   
